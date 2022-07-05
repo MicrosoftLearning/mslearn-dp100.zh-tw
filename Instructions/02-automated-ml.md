@@ -1,12 +1,12 @@
 ---
 lab:
   title: 使用自動化機器學習
-ms.openlocfilehash: 70580a25d4bcd3929697874650ea6865262871f4
-ms.sourcegitcommit: d2354e40eec31c22eb09381c6a890311cccc30c9
+ms.openlocfilehash: a4908c0de74edb6c2fdf7b1a7288014d1ab86b94
+ms.sourcegitcommit: 48bc4227570b0817702d195aa06fa4dabe1bbdd7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/11/2022
-ms.locfileid: "146266836"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "146733064"
 ---
 # <a name="use-automated-machine-learning"></a>使用自動化機器學習
 
@@ -42,7 +42,7 @@ Azure Machine Learning 包含「自動化機器學習」功能，可利用雲端
 現在您有了一些可用來處理資料的計算資源，便需要一種方式來儲存和內嵌要處理的資料。
 
 1. 使用網頁瀏覽器在 https://aka.ms/diabetes-data 中查看逗點分隔的資料。 然後將之儲存為名為 **diabetes.csv** 的本機檔案 (您將檔案儲存在哪裡並不重要)。
-2. 在 Azure Machine Learning 工作室中，檢視 [資料集] 頁面。 資料集代表您計劃在 Azure ML 中使用的特定資料檔案或資料表。
+2. 在 Azure Machine Learning 工作室中，檢視 [資料] 頁面。 資料集代表您計劃在 Azure ML 中使用的特定資料檔案或資料表。
 3. 使用下列設定，從本地檔案建立新的資料集：
     * **基本資訊**：
         * **名稱**：糖尿病資料集
